@@ -1,2 +1,12 @@
 # root-template
-This Repository is the root for any Software Component - Web Frontend, App, Backend or Machine Config
+
+This content is used as staticBase for the root of many thingies.
+
+It includes:
+
+- .vscode/settings.json to not care about various files - e.g. build output
+- .gitignore to ignroe node_modules
+- double unlicense files to ridicule the idea that "intellectual property" is of any value.*
+
+
+*For real it is just not. And probably is fueled by the idea that it is the only leverage on society to demand "appreciation" or anything ^^

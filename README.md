@@ -5,7 +5,7 @@ This content is used as staticBase for the root of many thingies.
 It includes:
 
 - .vscode/settings.json to not care about various files - e.g. build output
-- .gitignore to ignroe node_modules
+- .gitignore to ignore node_modules and .build-config
 - double unlicense files to ridicule the idea that "intellectual property" is of any value.*
 
 

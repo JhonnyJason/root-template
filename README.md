@@ -6,9 +6,9 @@ It includes:
 
 - .vscode/settings.json to not care about various files - e.g. build output
 - .gitignore to ignore node_modules and .build-config
-- LICENSE file
+- CLAUDE.md
 
 ---
 
 # License
-[Unlicense JhonnyJason style](https://hackmd.io/nCpLO3gxRlSmKVG3Zxy2hA?view)
+[CC0](https://creativecommons.org/publicdomain/zero/1.0/)
